@@ -1,0 +1,8 @@
+data/raw/
+data/processed/
+__pycache__/
+.pytest_cache/
+.venv/
+data/desk/
+models/
+logs/

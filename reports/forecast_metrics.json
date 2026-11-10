@@ -1,0 +1,13 @@
+{
+  "mae_naive": 72.94359049133969,
+  "mae_model": 55.75757522352511,
+  "mae_mean_model": 73.54371426069333,
+  "mae_improvement_pct": 23.560692792953496,
+  "p10_p90_coverage_pct": 65.0097207493814,
+  "rank_corr_naive": 0.18453324564964996,
+  "rank_corr_model": 0.2869834005064803,
+  "rank_corr_mean_model": 0.27876728141103185,
+  "spike_hours": 1494,
+  "spike_recall_pct": 69.54484605087015,
+  "spike_precision_pct": 21.26048700634336
+}
